@@ -4,7 +4,7 @@ Discord bot that returns covid-19 satistics on a command.
 ## <u>Preview of Discord bot</u>
 ![image info](./Images/bot.png)
 
-##Setup
+## Setup
 The setup of this bot is simple. Go and download **[python 3.7]("https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64-webinstall.exe")**, once the download has completed run the installer, make sure you click "Add To Path". This will allow you to use `pip`. Install the requirements.txt with pip. `pip install -r requirements.txt`
 
 ## __**Configuring the bot**__
